@@ -2,7 +2,7 @@
 const nextConfig = {
   experimental: {
     output:"export",
-    basePath: "/nextjs-github-pages",
+    basePath: "/.next",
   },
 }
 
